@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://github.com/slay1239812/Roblox-Hacks/blob/main/knife-FE.lua'))()
